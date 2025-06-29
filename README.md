@@ -2,4 +2,4 @@
 
 This is my first Git repositry
 
-Author - Shradha (Apna College)
+Author - Md Arman
